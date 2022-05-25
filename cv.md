@@ -1,8 +1,8 @@
-###___Margarita Shestakova___
+### ___Margarita Shestakova___
 
 ------
 
-####Contact information:
+#### Contact information:
 
 - **Phone:** 8-999-999-99-99
 - **Email:** margaritka94@inbox.ru
@@ -10,17 +10,19 @@
   
 ------
 
-####About myself:
+#### About myself:
+
 I took software testing courses and now I am interested in Front-end development. That's why I'm studying it in RSSchol!
 
 -------------------
-####Skills:
+#### Skills:
 - Software testing theory
 - Postman
 - Git, GitHub
 - VS Code
- ----------------------
-####Code example:
+----------------------
+
+#### Code example:
 
 ```
 function multiply(a, b) {
@@ -29,11 +31,12 @@ function multiply(a, b) {
 ```
 
 -----------------------------
-####Experience:
+#### Experience:
+
 Relevant experience is not yet available
 
 __________________________
-####Education:
+#### Education:
 * **Bratsk State University**
     - Bachelor's degree, Faculty of Economics
 - ***Courses:*** 
@@ -43,5 +46,6 @@ __________________________
         - QA Engineer
 
 
-####Language:
+#### Language:
+
 English level - **A1+**
