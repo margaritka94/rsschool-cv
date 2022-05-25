@@ -2,7 +2,7 @@
 
 ------
 
-#### Contact information:
+### Contact information:
 
 - **Phone:** 8-999-999-99-99
 - **Email:** margaritka94@inbox.ru
